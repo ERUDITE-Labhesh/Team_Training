@@ -3,3 +3,8 @@ def Greet(time):
   
 
 Greet(time = "Morning")
+
+def add(): 
+  pass 
+
+add() 
