@@ -8,3 +8,6 @@ def add():
   pass 
 
 add() 
+
+def feature_1(): 
+  print("this is the feature 1 function")
