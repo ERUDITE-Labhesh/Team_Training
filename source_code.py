@@ -3,6 +3,7 @@ def Greet(time):
   
 
 Greet(time = "Morning")
+Greet(time = "Afternoon")
 
 def add(): 
   pass 
